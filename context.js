@@ -18,7 +18,13 @@
 */
 
 //Code Here
-
+let user = {
+  username: "Cameron",
+  email: "cstuart08@gmail.com",
+  getUsername: () => {
+    return this.username
+  }
+}
 ////////// PROBLEM 2 //////////
 
 /*
